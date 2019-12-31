@@ -24,7 +24,7 @@
 ### 2.下载代码到本地并解压<br>
 ### 3.cmd到根目录下安装相关依赖包<br>
 ```bash
-pip3 install Django
+pip3 install Django==2.0.2
 pip install -r requirements.txt
 pip install https://github.com/darklow/django-suit/tarball/v2
 ```
